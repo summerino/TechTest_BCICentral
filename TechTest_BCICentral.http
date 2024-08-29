@@ -1,0 +1,6 @@
+@TechTest_BCICentral_HostAddress = http://localhost:5294
+
+GET {{TechTest_BCICentral_HostAddress}}/constructionproject/
+Accept: application/json
+
+###
